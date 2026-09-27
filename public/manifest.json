@@ -1,0 +1,21 @@
+{
+  "name": "Task OS - Multi Workspace",
+  "short_name": "Task OS",
+  "description": "Multi-workspace Task Management & Quick Capture System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
